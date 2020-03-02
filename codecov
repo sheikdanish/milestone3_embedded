@@ -1,0 +1,2 @@
+echo "b388a6cd-306d-4357-aff8-38b0f2efc3bb" > .cc_token
+bash <(curl -s https://codecov.io/bash) -t @.cc_token
