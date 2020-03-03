@@ -1,0 +1,2 @@
+# milestone3_embedded
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b77e84e50b9437cac3076cc1ea6699b)](https://app.codacy.com/manual/sheikdanish/milestone3_embedded?utm_source=github.com&utm_medium=referral&utm_content=sheikdanish/milestone3_embedded&utm_campaign=Badge_Grade_Dashboard)
